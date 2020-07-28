@@ -1,0 +1,120 @@
+{
+  "categorias": [
+    {
+      "titulo": "Worship Songs",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Cody Carnes – Nothing Else (Live at Passion Conference)",
+          "url": "https://www.youtube.com/watch?v=4BhTAJ49MQ0"
+        },
+        {
+          "titulo": "Leeland - Sound of Melodies",
+          "url": "https://www.youtube.com/watch?v=kFYrzgeMrj4"
+        },
+        {
+          "titulo": "Prince Of Peace (Church Online) - Hillsong UNITED",
+          "url": "https://www.youtube.com/watch?v=Y3uLiQ5ezm4 "
+        },
+        {
+          "titulo": "Meu Coração Te Pertence Salzband - Videoclip Oficial HD",
+          "url": "https://www.youtube.com/watch?v=eWYTuhr52u4"
+        }
+      ]
+    },
+    {
+      "titulo": "Ministrações",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Davi Lago // Formigas",
+          "url": "https://www.youtube.com/watch?v=fAXqmOso_I8"
+        },
+        {
+          "titulo": "O PROCESSO DA MATURIDADE - BRUNÃO MORADA",
+          "url": "https://www.youtube.com/watch?v=z9J5iAvbJxQ"
+        },
+        {
+          "titulo": "Cristopher Vergara - Algo maior porque viver",
+          "url": "https://www.youtube.com/watch?v=ffRk_myRUdk"
+        },
+        {
+          "titulo": "Bendita esperança // Gumer Souza",
+          "url": "https://www.youtube.com/watch?v=Vb6rCprSFLk"
+        }
+      ]
+    },
+    {
+      "titulo": "Carreira",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Saia da sua bolha | Davi Lago | TEDxPUCMinas",
+          "url": "https://www.youtube.com/watch?v=oaWFnwhGxUQ"
+        },
+        {
+          "titulo": "Simon Sinek: Como grandes líderes inspiram ação",
+          "url": "https://www.youtube.com/watch?v=qp0HIF3SfI4"
+        },
+        {
+          "titulo": "programador desmotivando com a faculdade",
+          "url": "https://www.youtube.com/watch?v=Gq3sRFWiAGk&t=582s"
+        },
+        {
+          "titulo": "LIVE: Quando me tornei um Programador Profissional (A História de 16 Programadores)",
+          "url": "https://www.youtube.com/watch?v=eUwiTnK0EA0&t=31s"
+        }
+      ]
+    },
+    {
+      "titulo": "Rachei",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Milton Leite em: AGORA EU SE CONSAGRO!",
+          "url": "https://www.youtube.com/watch?v=h1ZNbcfEEHA"
+        }
+      ]
+    },
+    {
+      "titulo": "Songs",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "City and Colour - The Girl (Official Video)",
+          "url": "https://www.youtube.com/watch?v=UVHk4dc7yaE"
+        },
+        {
+          "titulo": "Crowded House - Don't Dream It's Over Live (HQ)",
+          "url": "https://www.youtube.com/watch?v=I52eefwAKDE"
+        },
+        {
+          "titulo": "Red Hot Chili Peppers - Snow (Hey Oh) (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=yuFI5KSPAt4"
+        }
+      ]
+    }
+    
+  ]
+}
